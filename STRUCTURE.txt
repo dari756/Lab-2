@@ -1,7 +1,0 @@
-lab_2/
-├── README.md
-├── Housing.csv
-├── Lab_2_Housing.ipynb
-├── requirements.txt
-├── .gitignore
-└── STRUCTURE.txt
